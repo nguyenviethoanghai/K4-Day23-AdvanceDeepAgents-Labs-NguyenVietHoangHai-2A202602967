@@ -1,0 +1,50 @@
+[
+  {
+    "n": 1,
+    "id": "2502.02737",
+    "url": "https://huggingface.co/papers/2502.02737",
+    "title": "SmolLM2: When Smol Goes Big -- Data-Centric Training of a Small Language Model",
+    "date": "2025-02-04",
+    "source": "hf-search"
+  },
+  {
+    "n": 2,
+    "id": "2502.06833",
+    "url": "https://huggingface.co/papers/2502.06833",
+    "title": "Entropy Adaptive Decoding: Dynamic Model Switching for Efficient Inference",
+    "date": "2025-02-05",
+    "source": "hf-search"
+  },
+  {
+    "n": 3,
+    "id": "2606.14711",
+    "url": "https://huggingface.co/papers/2606.14711",
+    "title": "SWARM-LLM: Collaborative Inference for Edge-based Small Language Models",
+    "date": "2026-04-22",
+    "source": "arxiv"
+  },
+  {
+    "n": 4,
+    "id": "2610.11287",
+    "url": "https://huggingface.co/papers/2610.11287",
+    "title": "REMORY: Learning Residual Memory for Context Compaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2610.08917",
+    "url": "https://huggingface.co/papers/2610.08917",
+    "title": "CARE: Certifying Acceleration for Vision-Language-Action Inference",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2407.09276",
+    "url": "https://huggingface.co/papers/2407.09276",
+    "title": "H2O-Danube3 Technical Report",
+    "date": "2024-07-12",
+    "source": "arxiv"
+  }
+]

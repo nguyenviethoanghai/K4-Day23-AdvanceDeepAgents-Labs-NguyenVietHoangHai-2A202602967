@@ -1,0 +1,130 @@
+[
+  {
+    "n": 1,
+    "id": "2401.17464",
+    "url": "https://huggingface.co/papers/2401.17464",
+    "title": "Efficient Tool Use with Chain-of-Abstraction Reasoning",
+    "date": "2024-01-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2312.04511",
+    "url": "https://huggingface.co/papers/2312.04511",
+    "title": "An LLM Compiler for Parallel Function Calling",
+    "date": "2023-12-07",
+    "source": "arxiv"
+  },
+  {
+    "n": 3,
+    "id": "2510.20036",
+    "url": "https://huggingface.co/papers/2510.20036",
+    "title": "ToolScope: Enhancing LLM Agent Tool Use through Tool Merging and Context-Aware Filtering",
+    "date": "2026-05-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2609.39068",
+    "url": "https://huggingface.co/papers/2609.39068",
+    "title": "SparseEngine: Sparse-First Inference Engine",
+    "date": "2026-09-30",
+    "source": "hf-daily"
+  },
+  {
+    "n": 5,
+    "id": "2605.09252",
+    "url": "https://huggingface.co/papers/2605.09252",
+    "title": "LLM Agents Already Know When to Call Tools -- Even Without Reasoning",
+    "date": "2026-05-10",
+    "source": "arxiv"
+  },
+  {
+    "n": 6,
+    "id": "2610.08215",
+    "url": "https://huggingface.co/papers/2610.08215",
+    "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 7,
+    "id": "2604.11557",
+    "url": "https://huggingface.co/papers/2604.11557",
+    "title": "UniToolCall: Unifying Tool-Use Representation, Data, and Evaluation for LLM Agents",
+    "date": "2026-04-13",
+    "source": "arxiv"
+  },
+  {
+    "n": 8,
+    "id": "2505.16700",
+    "url": "https://huggingface.co/papers/2505.16700",
+    "title": "MCP-RADAR: A Multi-Dimensional Benchmark for Evaluating Tool Use Capabilities in Large Language Models",
+    "date": "2025-05-22",
+    "source": "hf-search"
+  },
+  {
+    "n": 9,
+    "id": "2512.24565",
+    "url": "https://huggingface.co/papers/2512.24565",
+    "title": "MCPAgentBench: A Real-world Task Benchmark for Evaluating LLM Agent MCP Tool Use",
+    "date": "2025-12-28",
+    "source": "hf-search"
+  },
+  {
+    "n": 10,
+    "id": "2509.01560",
+    "url": "https://huggingface.co/papers/2509.01560",
+    "title": "In-N-Out: A Parameter-Level API Graph Dataset for Tool Agents",
+    "date": "2025-12-30",
+    "source": "arxiv"
+  },
+  {
+    "n": 11,
+    "id": "2503.04479",
+    "url": "https://huggingface.co/papers/2503.04479",
+    "title": "ToolFuzz -- Automated Agent Tool Testing",
+    "date": "2025-03-11",
+    "source": "arxiv"
+  },
+  {
+    "n": 12,
+    "id": "2602.20426",
+    "url": "https://huggingface.co/papers/2602.20426",
+    "title": "Learning to Rewrite Tool Descriptions for Reliable LLM-Agent Tool Use",
+    "date": "2026-02-23",
+    "source": "hf-search"
+  },
+  {
+    "n": 13,
+    "id": "2603.12740",
+    "url": "https://huggingface.co/papers/2603.12740",
+    "title": "ToolTree: Efficient LLM Agent Tool Planning via Dual-Feedback Monte Carlo Tree Search and Bidirectional Pruning",
+    "date": "2026-03-13",
+    "source": "hf-search"
+  },
+  {
+    "n": 14,
+    "id": "2610.12299",
+    "url": "https://huggingface.co/papers/2610.12299",
+    "title": "Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 15,
+    "id": "2610.12419",
+    "url": "https://huggingface.co/papers/2610.12419",
+    "title": "OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 16,
+    "id": "2610.12289",
+    "url": "https://huggingface.co/papers/2610.12289",
+    "title": "TestPrism: Rethinking Test Evaluation Beyond a Single Reference",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  }
+]

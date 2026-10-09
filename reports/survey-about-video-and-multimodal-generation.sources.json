@@ -1,0 +1,58 @@
+[
+  {
+    "n": 1,
+    "id": "2610.12468",
+    "url": "https://arxiv.org/abs/2610.12468",
+    "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  },
+  {
+    "n": 2,
+    "id": "2610.12459",
+    "url": "https://huggingface.co/papers/2610.12459",
+    "title": "WorldGuide: Goal-Directed Video World Model for Procedural Task Execution",
+    "date": "2026-10-08",
+    "source": "hf-daily"
+  },
+  {
+    "n": 3,
+    "id": "2604.06757",
+    "url": "https://huggingface.co/papers/2604.06757",
+    "title": "FlowInOne: Unifying Multimodal Generation as Image-in, Image-out Flow Matching",
+    "date": "2026-04-08",
+    "source": "hf-search"
+  },
+  {
+    "n": 4,
+    "id": "2603.28088",
+    "url": "https://huggingface.co/papers/2603.28088",
+    "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
+    "date": "2026-03-30",
+    "source": "hf-search"
+  },
+  {
+    "n": 5,
+    "id": "2610.08941",
+    "url": "https://huggingface.co/papers/2610.08941",
+    "title": "SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation",
+    "date": "2026-10-06",
+    "source": "hf-daily"
+  },
+  {
+    "n": 6,
+    "id": "2406.00908",
+    "url": "https://huggingface.co/papers/2406.00908",
+    "title": "ZeroSmooth: Training-free Diffuser Adaptation for High Frame Rate Video Generation",
+    "date": "2024-06-03",
+    "source": "hf-search"
+  },
+  {
+    "n": 7,
+    "id": "2610.12461",
+    "url": "https://arxiv.org/abs/2610.12461",
+    "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+    "date": "2026-10-08",
+    "source": "arxiv"
+  }
+]
